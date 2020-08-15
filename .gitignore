@@ -1,0 +1,6 @@
+.ruby-version
+.ruby-gemset
+database.env
+.DS_STORE
+Gemfile.lock
+vendor
